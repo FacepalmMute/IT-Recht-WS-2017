@@ -60,6 +60,8 @@ Personenbezogene Daten müssen sachlich richtig und erforderlichenfalls auf dem 
 * __Datensicherheit__
 //TODO[it-recht-kanzlei/DSGVO vs BDSG]
 
+Ist ein gesuchter Begriff nicht aufgeführt, empfehlen wir den Art. 4 DSGVO (Begriffsbestimmung).
+
 
 # Bundesdatenschutzgesetz
 
@@ -104,11 +106,55 @@ Da es eine Vorordnung ist, müssen die gestellten Anforderungen von den Unterneh
 ## BDSG vs DSGVO
 Die DSGVO ist in vielen Punkten schärfer und genauer als der BDSG. Es wird viel über den Haufen geworfen und neues Eingeführt.
 
+Einer der wohl größten Punkte des DSGVO ist das __Recht auf Löschung__ (oft auch __Recht auf Vergessenwerden__ genannt).
+Danach muss jeder Anbieter, der personenbezogene Daten speichert, eine leichte Möglichkeit für seine Nutzer bieten um ihre personenbezogenen Daten löschen zu können. 
+Je nach angebotenem Service kann sich das allerdings nur schwer umsetzen.
+<br>
+<br>
+Am Beispiel von Google:<br>
+Jede Privatperson hat dadurch das Recht alle gefundenen Eintrage, die dessen Namen erwähnen, löschen zu lassen.
+Wie man sich vorstellen kann ist der Aufwand für die technische Umsetzung enorm.[welt/Google überfordert]
+
+Dies ist allerdings bereits Realität. <br>
+Am Mai. 2014 hatte der Spanier Mario Costeja González gegen Google geklagt, weil Google einen Zeitungsartikel über ihn nicht aus den Suchtreffern entfernen wollten.
+
+>Kurzer Einschub zu dem Mario Costeja González Fall:<br>
+Mario Costeja González ist ein Schriftexperte und Professor.
+1998 veröffentlichte eine katalanische Zeitung „La Vanguardia“
+eine Liste von Immobilien die gepfändet werden mussten.
+Dabei kam der Name vom Herren González vor.
+Daraufhin wurde der mit dem unschönen Thema "Pfändung" in Verbindung gebracht.
+Dies schadete seinem Beruf.
+Zuerst ging González gegen die Zeitung „La Vanguardia“ ins Gericht und verlor.
+Daraufhin klagte er gegen Google.[welt/Fall González]
+
+Google verlor vor Gericht.
+Somit war Google der erste Anbieter, der das Recht auf Löschung umsetzen musste.
+
+Nach dem Art. 17 DSGVO müssen folgende Punkte zutreffen, um das Recht auf Löschung geltend zu machen:
+
+>Die personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig.
+
+>Die betroffene Person widerruft ihre Einwilligung, auf die sich die Verarbeitung gemäß Artikel 6 Absatz 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung.
+
+>Die betroffene Person legt gemäß Artikel 21 Absatz 1 Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder die betroffene Person legt gemäß Artikel 21 Absatz 2
+Widerspruch gegen die Verarbeitung ein.
+
+>Die personenbezogenen Daten wurden unrechtmäßig verarbeitet.
+
+>Die Löschung der personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.
+
+>Die personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Artikel 8 Absatz 1 erhoben.
+
+<br>
+Eine weitere größe Neuerung ist das __Recht auf Datenübertragbarkeit__(Datenportabilität). Diese soll den Nutzer die Möglichkeit geben, mit seinen Daten leicht zu anderen Anbietern wechseln zu können. Dabei müssen alle Anbieter die Daten in einem "gängigem Format" anbieten.
+
+Gängige Einsatzzwecke sollen beispielsweise der Wechsel der Bank, Arbeitsgebers oder sozialen Netzwerken sein.
+
+
+
+
 //TODO [it-recht-kanzlei/DSGVO vs BDSG]
-
-
-
-
 
 
 
@@ -156,5 +202,7 @@ __Bundendatenschutzgesetz, erster Abschnitt__
 [wikipedia/BDSG](https://de.wikipedia.org/wiki/Bundesdatenschutzgesetz)<br>
 [chip/Datenschutzgrundverordnung](https://praxistipps.chip.de/datenschutz-grundverordnung-was-ist-das-einfach-erklaert_94979)<br>
 [it-recht-kanzlei/DSGVO vs BDSG](http://www.it-recht-kanzlei.de/neue-eu-datenschutzgrundverordnung-serie.html)<br>
-[umschulden-leicht.de/Beweislastumkehr](https://www.umschulden-leicht.de/glossar/b/beweislastumkehr.html)<br>
-[datenschutz-notizen.de/Datenrichtigkeit](https://www.datenschutz-notizen.de/datenschutz-grundverordnung-neue-grundsaetze-0813653/)
+[umschulden-leicht/Beweislastumkehr](https://www.umschulden-leicht.de/glossar/b/beweislastumkehr.html)<br>
+[datenschutz-notizen/Datenrichtigkeit](https://www.datenschutz-notizen.de/datenschutz-grundverordnung-neue-grundsaetze-0813653/)<br>
+[trendblog.euronics/Google überfordert](https://trendblog.euronics.de/internet/das-recht-auf-vergessen-ueberfordert-google-loesch-beirat-soll-jetzt-helfen-20030/)<br>
+[welt/Fall González](https://www.welt.de/wirtschaft/webwelt/article127964848/Dieser-Spanier-zwingt-Google-in-die-Knie.html)<br>
