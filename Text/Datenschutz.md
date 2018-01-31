@@ -150,12 +150,19 @@ Widerspruch gegen die Verarbeitung ein.
 Eine weitere größe Neuerung ist das __Recht auf Datenübertragbarkeit__(Datenportabilität). Diese soll den Nutzer die Möglichkeit geben, mit seinen Daten leicht zu anderen Anbietern wechseln zu können. Dabei müssen alle Anbieter die Daten in einem "gängigem Format" anbieten.
 
 Gängige Einsatzzwecke sollen beispielsweise der Wechsel der Bank, Arbeitsgebers oder sozialen Netzwerken sein.
+<br>
+<br>
+Die Rechenschaftspflichten von Unternehmen ändert sich laut Art. 22 auch.
+Danach müssen je nach Art der Daten „geeignete technische und organisatorische Maßnahmen“ ergriffen werden, um sicherzustellen und den Nachweis dafür erbringen zu können, dass personenbezogene Daten in Übereinstimmung mit den neuen EU-Regelungen verarbeitet werden.[heise/Änderrungen]<br>
+Dabei sind Unternehmen, die beschuldigt werden rechtswidrig mit den Daten umzugehen, zu einer __Beweislastumkehr__ verpflichtet.
 
+Die __Datenschutz-Folgenabschätzung__ ist ebenfalls eine Neuerung.
+Diese ist in Art. 34 geregelt und sieht eine "vorherige Konsultation" durch einen Datenschutzbeauftragten vor.
+Somit müssten größere Projekt, die mit personenbezogenen Daten umgehen, eine Konsultation durch einen Datenschutzbeauftragten haben.
+Diese Regelung gab es bereits in dem BDSG, sie ist allerdings von der Mitarbeiterzahl abhängig. Danach brauchte man einen Datenschutzbeauftragten erst bei 10 oder mehr Mitarbeitern. Dieser Punkt wird auch oft von Kritikern kritisiert, da sich dadurch die agile Softwareentwicklung abgebremst und eine Innovationshemmung stattfindet. 
 
-
-
-//TODO [it-recht-kanzlei/DSGVO vs BDSG]
-
+Was sich auch ändert sind die Strafen bei Verletzung der DSGVO Gesetze.
+Diese werden in den folgenden Kapiteln noch erläutert.
 
 
 # __Allgemeine Infos__
@@ -206,3 +213,4 @@ __Bundendatenschutzgesetz, erster Abschnitt__
 [datenschutz-notizen/Datenrichtigkeit](https://www.datenschutz-notizen.de/datenschutz-grundverordnung-neue-grundsaetze-0813653/)<br>
 [trendblog.euronics/Google überfordert](https://trendblog.euronics.de/internet/das-recht-auf-vergessen-ueberfordert-google-loesch-beirat-soll-jetzt-helfen-20030/)<br>
 [welt/Fall González](https://www.welt.de/wirtschaft/webwelt/article127964848/Dieser-Spanier-zwingt-Google-in-die-Knie.html)<br>
+[heise/DSGVO Änderrungen](https://www.heise.de/ct/ausgabe/2016-9-Welche-Aenderungen-die-neue-EU-Datenschutz-Regulierung-in-Deutschland-bringen-wird-3166896.html)
