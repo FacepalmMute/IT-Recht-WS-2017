@@ -7,7 +7,7 @@
 
 
 # Vertrag
-
+\\Denis
 * Gegestand: ertstellung von Lohnabrechnungen für die mitarbeiter der lebensmittel ag (auftraggeber)
 * Dauer: unbefristet mit einer Kuündigungsfrist von 2 monate zum 2 tag des monats
 * Weisungsberechtigte Personen des Auftraggebers
@@ -43,7 +43,7 @@
     * Änderung der Maßnahmen ist in schriftlicher Form möglich
     * Sollte eine Maßnahme nicht erfüllt werden, muss der Auftragnehmer den Auftraggeber unverzügich Informieren
     * Auftragnehmer muss den Auftraggeber bei seinen Pflichten nach §42a BDSG unterstützen
-
+\\Gorden
 * Rechte und Pflichten des Auftragnehmers
     * Der Auftragnehmer verpflichtet sich dazu alle vertraglich vereinbarten Maßnahmen Ordnungsgemäß durchzuführen. Bei Verstoß drohen ihm Vertragsstrafen nach Absatz XY
     * Bearbeitung der Daten durch Auftragnehmer ausschließlich im Rahmen des Auftrags und nur durch Beschäftigte des Auftragnehmers, welche Kenntnis des Datenschutzrecht haben
@@ -76,6 +76,7 @@
     * Massnahmen zur einhaltung des Datenschutzes beim Auftragnehmer, die nicht den konkreten Auftrag betreffen, sind dem Auftraggeber durch eine Zertifizierung von IT-Sicherheits oder Datenschutzaudit zu belegen. Die It-Sicherheits oder Datenschutzaudits müssen dem BSI-Grundschutz enstsprechen.
     * Der Auftraggeber ist dazu verpflichtet die nötigen Zustimmungen nach BDSG der druch die Datenverarbeitung betroffenen Personen einzuholen.
 
+\\Denis
 * Unterauftragsverhältnisse
     * Als Unterauftragsverhältniss, gelten Deinstleistungen, die sich auf den konkreten Umfang dieses Auftrags beziehen. Hiervon Ausgeschlossen sind zum Beispiel: Telekommunikationsdienstleistugenn, Transportdienstleistungen, Wartung- und Benutzerservices, Entsorgung von Datenträgern, wie sonstliche Massnahmen zur Sicherstellung der Vertraulichkeit, Intigrität und belastbarkeit der Hard und Software von Datenverarbeitungsanlagen.
     * Der Auftragnehmer ist dazu verpflichtet die Einhaltung des Datenschutzes und der Datensicherheit, der Daten des Auftraggebers, bei in Anspruchnahme externer Deinstleistungen, die nicht als Unterauftragsverhältniss gelten zu Gewährleisten.
@@ -89,7 +90,7 @@
         * Der Auftraggeber muss schirftlich vom Auftragnehmer über ein wechsel des Unterauftragsverhältiniss informiert werden und hat bis zur Übergabe der Daten an den Unterauftragnehmer Zeit einspruch zu erheben.(Textform)
     * Das Unterauftragsverhältniss darf erst dann starten (weitergabe und verarbeitung der Daten), wenn alle erforderlichen Verträge und Dokumente dem Auftraggeber schirftlich vorliegen.
 
-
+\\Gorden
 * Haftung
     * Der Auftragnehmer haftet gegenüber dem Auftraggeber für Fälle, in denen durch die nicht Einhaltung des Datenschutzes und der Datensicherheit schäden beim Auftraggeber entstanden sind.
     * Der Auftraggeber haftet immer in Fällen, gegenüber den durch die Auftragsdatenverarbeitung betroffenen Personen. Ob er den Auftragnehmer haftend macht, ist ihm überlassen.
